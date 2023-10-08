@@ -50,6 +50,10 @@ npm run dev
 
 ### Configure corretamente os Params e o body para os testes
 
+![body](https://github.com/B0NATES/API-Sistema-bancario/assets/142263364/fd8675b5-6e7e-43c8-896a-cdc2020b94dd)
+
+
+### Rode-o e teste de várias formas possiveis
 ![gifProject](https://github.com/B0NATES/API-Sistema-bancario/assets/142263364/ba5cde29-506d-458c-9c69-19490afcdf7d)
 
 
